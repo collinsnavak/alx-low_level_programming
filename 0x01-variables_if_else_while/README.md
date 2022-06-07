@@ -1,1 +1,1 @@
-1-last_digit.c
+6-print_numberz.c
