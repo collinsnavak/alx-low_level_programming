@@ -23,3 +23,4 @@ putchar(character);
 }
 putchar('\n');
 return (0);
+}
